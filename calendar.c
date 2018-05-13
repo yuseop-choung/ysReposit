@@ -1,5 +1,5 @@
 #include "diary.h"
-//this is Calendar()
+// Modified for Homework7
 Int calendar()
 {
 	printf("function calendar.\n");
